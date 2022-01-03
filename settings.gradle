@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 rootProject.name = "android-photopicker"
 include ':sample'
 include ':photopicker-core'
+include ':photopicker-view'
